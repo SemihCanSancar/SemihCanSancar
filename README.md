@@ -6,4 +6,4 @@ You can find some of the coding exercises here in my github repositories. I focu
 I am very interested in combining life science problems with computer science methods such as Machine Learning. A first introduction into Deep Learning was presented during my master studies.
 My goal is to deepen my knowledge in this topic and learn more about it. 
 
-You can find me under my full name on LinkedIN if you want to reach me. 
+You can find me under my full name on LinkedIN if you want to contact me. 
